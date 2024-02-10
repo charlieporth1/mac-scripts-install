@@ -6,3 +6,4 @@ brew install angry-ip-scanner
 brew install wifi-explorer
 brew install wifi-explorer-pro
 brew install wifispoof
+# brew install

@@ -16,6 +16,12 @@ brew install speedtest-cli
 brew install docker docker-compose docker-credential-helper docker-clean docker-buildx docker-machine-nfs dockerize docker-machine docker-ls
 brew install flyctl
 brew install rclone rsync
+brew install awk
+brew install apktool
+brew install osx-cpu-temp cpu_features cpulimit cpufetch
+brew install lsusb lsof
+brew install htop iftop dnstop ctop
+brew install gping arping dhcping httping ioping tcping fping hping
 brew install
 brew install
 brew install

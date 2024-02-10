@@ -5,3 +5,4 @@ brew install goland
 brew install visual-studio
 brew install visual-studio-code
 brew install brackets
+brew install thonny

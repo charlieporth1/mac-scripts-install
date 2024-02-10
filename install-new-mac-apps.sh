@@ -5,9 +5,8 @@
 #
 #
 brew install grishka/grishka/neardrop
-brew install google-earth-pro google-drive
+brew install google-earth-pro google-drive chrome-remote-desktop-host vpn-by-google-one
 brew install homebrew/cask-versions/google-chrome-dev
-brew install vpn-by-google-one
 brew install google-assistant
 brew install slack
 brew install tailscale
@@ -26,12 +25,12 @@ brew install airparrot
 brew install airdisplay airserver airpass airmedia
 brew install mkchromecast screencast
 brew install smcfancontrol
-brew install 
-brew install 
-brew install 
-brew install 
-brew install 
-brew install 
+brew install balenaetcher
+brew install raspberry-pi-imager
+brew install vlc
+brew install firefox
+brew install teamviewer tamviewer-host
+brew install hiddenbar
 brew install 
 brew install 
 brew install 
